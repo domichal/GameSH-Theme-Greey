@@ -15,4 +15,4 @@ curl -sSL https://raw.githubusercontent.com/domichal/GameSH-etc/master/install-g
 
 
 ---
-You may also want to check out my GameShell launcher [mod](https://github.com/domichal/mylauncher).
+You may also like my GameShell launcher [mod](https://github.com/domichal/mylauncher).
