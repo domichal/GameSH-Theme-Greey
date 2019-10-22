@@ -11,7 +11,7 @@ curl -sSL https://raw.githubusercontent.com/domichal/GameSH-etc/master/install-g
 # Credits
 - Tool and Snake graphics used on Launcher Tools Icon were made by Freepik from www.flaticon.com
 - Majority of the icons come from [here](https://www.figma.com/file/Mzfms2wlOR9l4c7OgP1GhNd5/GameShell?node-id=102%3A486)
-- Modified grpahics from clockworkpi launchers were also used
+- Modified graphics from clockworkpi launchers were also used
 
 
 ---
