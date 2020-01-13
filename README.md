@@ -1,5 +1,7 @@
 ![Greey_GameShell_Theme](https://github.com/domichal/GameSH-etc/raw/master/images/Greey.png)
 
+# THEME UPDATED TO WORK WITH CLOCKWORK OS v0.5
+
 # Installation
 
 Download and unzip the skin to ``~/skins/`` folder
